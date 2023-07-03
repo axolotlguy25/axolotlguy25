@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Programming
 - 🌱 I’m currently learning: Terraria modding
 - 💞️ I’m looking to collaborate on: Terraria modding
-- 📫 How to reach me: Axolotlguy#5530
+- 📫 How to reach me: Axolotlguy25 on discord
 
 <!---
 axolotlguy25/axolotlguy25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
